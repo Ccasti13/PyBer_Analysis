@@ -11,6 +11,7 @@ Above is a bubble graph formed from raw driver data, showing the density of ride
 
 While Urban fares are the lowest average, Urban rides are almost double of Suburban and Rural combined. 
 
+*For graphs, please refer to the PDF version of the written analysis or the Resources folder.
 
 ## Summary
 Based on the results, here are three suggestions on Pyber’s future business to address disparities among the city types.
